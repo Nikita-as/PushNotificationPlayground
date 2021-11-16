@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578100935959",
+    "project_id": "notificationplayground-17528",
+    "storage_bucket": "notificationplayground-17528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578100935959:android:264c556455a2eee9c7cb52",
+        "android_client_info": {
+          "package_name": "com.example.notificationplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578100935959-6h89rmcahchfg5vnrvq42b9o52seic7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOwJILKYc_SCgoQgRZrC0nPAcf3-yuYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578100935959-6h89rmcahchfg5vnrvq42b9o52seic7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

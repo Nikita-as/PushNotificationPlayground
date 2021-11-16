@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationPlayground</string>
+    <string name="text_notification">Отсюда пришло уведомление</string>
+</resources>
